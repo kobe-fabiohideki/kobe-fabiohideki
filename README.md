@@ -13,3 +13,5 @@ You can click the Preview link to take a look at your changes.
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=kobe-fabiohideki&&show_icons=true&count_private=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobe-fabiohideki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
