@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=kobe-fabiohideki&&show_icons=true&count_private=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobe-fabiohideki&count_private=true&layout=compact)](https://github.com/kobe-fabiohideki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobe-fabiohideki&count_private=true)](https://github.com/kobe-fabiohideki/github-readme-stats)
